@@ -1,1 +1,1 @@
-console.log('Hello, tingting.dog');
+console.log('Hello, world');
